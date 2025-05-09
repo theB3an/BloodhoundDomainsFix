@@ -4,6 +4,6 @@ If using the Kali included version of `bloodhound-python` the "TrustType" and "T
 
 
 If an output file is not specified, the original will be overwritten with the updates:  
-`python ../FixBloodhoundDomains.py 20250509125232_domains.json`   
+`python FixBloodhoundDomains.py 20250509125232_domains.json`   
 OR  
-`python ../FixBloodhoundDomains.py 20250509125232_domains.json new_domains.json`  
+`python FixBloodhoundDomains.py 20250509125232_domains.json new_domains.json`  
